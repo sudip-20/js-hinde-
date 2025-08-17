@@ -1,2 +1,2 @@
-# js-hinde-
+# js-hindi
 code repo for javascript
